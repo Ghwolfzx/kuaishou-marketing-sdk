@@ -1,5 +1,5 @@
 {
-    "name": "cloudycity/kuaishou-marketing-sdk",
+    "name": "Ghwolfzx/kuaishou-marketing-sdk",
     "description": "Kuaishou MarketingAPI SDK",
     "keywords": [
         "kuaishou",
@@ -13,8 +13,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "cloudycity",
-            "email": "cloudycity@foxmail.com"
+            "name": "ghwolf",
+            "email": "ghwolf@foxmail.com"
         }
     ],
     "autoload": {
